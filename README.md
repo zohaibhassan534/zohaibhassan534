@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science , AI**
 
-- 💬 Ask me about **React, Next, Django, Node.**
+- 💬 Ask me about **React, Next, Deno, Node.**
 
 - 📫 How to reach me **fzohaibhassan@gmail.com**
 <h3 align="left">Connect with me:</h3>
