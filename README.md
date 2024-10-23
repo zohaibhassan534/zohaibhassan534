@@ -6,11 +6,11 @@
 <img align="right" alt="Coding GIF" width="480" height="280px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV3a3psMnp2Y2x0MHk5MzhqdjBpazlnNHlnNGZoZXFuemV1N3gzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on **React, Next**
+- 🔭 I’m currently working as a **Data Engineer/Scientist**
 
-- 🌱 I’m currently learning **Data Science , AI**
+- 🌱 I’m currently learning **AI, LLMs**
 
-- 💬 Ask me about **React, Next, Deno, Node.**
+- 💬 Ask me about **Data Pipelines, ETL Tools, Cloud Infrastructure and Databases**
 
 - 📫 How to reach me **fzohaibhassan@gmail.com**
 <h3 align="left">Connect with me:</h3>
